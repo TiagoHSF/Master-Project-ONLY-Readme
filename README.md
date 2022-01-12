@@ -20,9 +20,16 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
      - npm install eslint-init -g
      - eslint-init --node
    - Dotenv
+     - npm add -g dotenv
    - Scripts desenvolvimento, build, start
+     - npm run-script dev ("dev": "ts-node ./src/server.ts")
+     - npm run-script build ("build": "tsc")
+     - npm run-script start ("start": "node ./dist/server.js")
    - Express
      - npm add express
         - Types (npm add -D @types/express)
         - npm install -g ts-node
         - npm run-script dev
+   - .env.local
+     - .env (`${NAME}`)
+   - 
