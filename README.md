@@ -11,6 +11,7 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
       - ident size 2
       - crlf to lf
    - Typescript
+      - npm add -D typescript
    - Eslint
    - Dotenv
    - Scripts desenvolvimento, build, start
