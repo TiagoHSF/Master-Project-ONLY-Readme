@@ -12,6 +12,12 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
       - crlf to lf
    - Typescript
       - npm add -D typescript
+      - tsc -init
+         - tsconfig.json
+              - "target": "es2017", "allowJs": true, "outDir": "./dist"
    - Eslint
+     - npm add -d eslint
+     - npm install eslint-init -g
+     - eslint-init --node
    - Dotenv
    - Scripts desenvolvimento, build, start
