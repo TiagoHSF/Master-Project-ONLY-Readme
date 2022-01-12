@@ -8,6 +8,8 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
    - NPM
       - npm init
    - .editorconfig
+      - ident size 2
+      - crlf to lf
    - Typescript
    - Eslint
    - Dotenv
