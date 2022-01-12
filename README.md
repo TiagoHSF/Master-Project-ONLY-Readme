@@ -6,6 +6,7 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
    - GIT
       - .gitignore
    - NPM
+      - npm init
    - .editorconfig
    - Typescript
    - Eslint
