@@ -21,3 +21,8 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
      - eslint-init --node
    - Dotenv
    - Scripts desenvolvimento, build, start
+   - Express
+     - npm add express
+        - Types (npm add -D @types/express)
+        - npm install -g ts-node
+        - npm run-script dev
