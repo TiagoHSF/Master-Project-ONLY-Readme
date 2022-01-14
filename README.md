@@ -32,4 +32,4 @@ CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
         - npm run-script dev
    - .env.local
      - .env (`${NAME}`)
-   - 
+   
