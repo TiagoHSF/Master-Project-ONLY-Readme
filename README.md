@@ -1,4 +1,4 @@
-# CRUD
+# CRUD database using MYSQL
 CRUD Respository | TYPESCRIPT, SEQUELIZE e MYSQL
 
   Using in Project
